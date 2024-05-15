@@ -1,0 +1,7 @@
+streamlit
+pandas
+sklearn
+numpy
+matplotlib
+bs4
+lmxl
